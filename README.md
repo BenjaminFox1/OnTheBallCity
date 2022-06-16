@@ -1,9 +1,8 @@
 # OnTheBallCity
 [VariationOnBouncingBall](https://benjaminfox1.github.io/OnTheBallCity/)
-
+<details><summary>Code Below</summary>
 <p>
-<details>
-```JavaScript
+javascript
  var dividerW;
 var dividerH;
 
@@ -72,5 +71,6 @@ if (myY < 0) {
 }  
 
 ```
-            </p>
- </details>
+</details>
+</p>
+
