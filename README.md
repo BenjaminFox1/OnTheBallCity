@@ -2,8 +2,10 @@
 [VariationOnBouncingBall](https://benjaminfox1.github.io/OnTheBallCity/)
 <details><summary>Code Below</summary>
 <p>
-javascript
- var dividerW;
+ 
+```javascript
+ 
+var dividerW;
 var dividerH;
 
 var myFlexiSize;
