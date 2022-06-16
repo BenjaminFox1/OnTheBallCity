@@ -39,7 +39,7 @@ for (var i=0; i < 21; i++){
 
   fill(0,166,80);
   textSize(70);
-  text("On the Ball City!",50,height/2+350)
+  text("On the ball City!",50,height/2+350)
     
   };
 }
